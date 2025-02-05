@@ -15,7 +15,7 @@ public class Student {
         this.grade = grade;
     }
 
-
+    //Getters for student object
     public String getName() { return name; }
     public int getAge() { return age; }
     public String getGrade() { return grade; }
